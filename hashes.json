@@ -1,5 +1,5 @@
 {
-  "version": "1.4.13",
+  "version": "1.5.0-rc.2",
   "sources": {
     "x86_64-linux": {
       "url": "https://github.com/AdguardTeam/AdGuardCLI/releases/download/v1.5.0-rc.2/adguard-cli-1.5.0-rc.2-linux-x86_64.tar.gz",
